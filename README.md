@@ -1,4 +1,4 @@
-# Hi, I'm Ignacio 👋
+# Hi, I'm Nacho 👋
 
 I'm a software developer from Chile who enjoys building useful, real-world solutions.  
 I got into tech driven by curiosity about how things work, and I stayed because I love turning complexity into real, working software.
@@ -11,7 +11,7 @@ Right now I'm focused on backend development, system architecture and AI enginee
 
 ## 🧠 Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=cpp,py,cs,dotnet,js,ts,react,nextjs,php,html,css,postgres,mysql,git,linux)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,py,cs,dotnet,js,ts,react,nextjs,php,html,css,postgres,cmake,git,docker,linux)
 
 > I work mostly with Python, C++, C and web technologies.  
 > I'm especially interested in backend systems, performance, and scalable architectures, but I also enjoy frontend development and care about good user experiences.
